@@ -18,16 +18,16 @@ If you discover any new, interesting instructions, let me know!
 
 Enjoy faster coding!
 
-[Personal Coding Assistant](ChatGPT%20Prompt%20For%20Programmers%20abde359f2f844efc863671015bb5c655/Personal%20Coding%20Assistant%2067bbf31496624369a86959e20080226a.md)
+[Personal Coding Assistant](ChatGPT%20Prompt%20For%20Programmers%20abde359f2f844efc863671015bb5c655/Personal%20Coding%20Assistant.md)
 
-[Act as a coding teacher](ChatGPT%20Prompt%20For%20Programmers%20abde359f2f844efc863671015bb5c655/Act%20as%20a%20coding%20teacher%20a3d6a11a737f4cd09662eb8b381f62b4.md)
+[Act as a coding teacher](ChatGPT%20Prompt%20For%20Programmers%20abde359f2f844efc863671015bb5c655/Act%20as%20a%20coding%20teacher.md)
 
-[Act as a [manager]](ChatGPT%20Prompt%20For%20Programmers%20abde359f2f844efc863671015bb5c655/Act%20as%20a%20%5Bmanager%5D%20552028bd581d44d7b0c2674e2676f837.md)
+[Act as a manager](ChatGPT%20Prompt%20For%20Programmers%20abde359f2f844efc863671015bb5c655/Act%20as%20a%20manager.md)
 
-[Act as a Tech Writer](ChatGPT%20Prompt%20For%20Programmers%20abde359f2f844efc863671015bb5c655/Act%20as%20a%20Tech%20Writer%2015c0aec99590424dba6b3c57ed343837.md)
+[Act as a Tech Writer](ChatGPT%20Prompt%20For%20Programmers%20abde359f2f844efc863671015bb5c655/Act%20as%20a%20Tech%20Writer.md)
 
-[Act as a skeptical tester](ChatGPT%20Prompt%20For%20Programmers%20abde359f2f844efc863671015bb5c655/Act%20as%20a%20skeptical%20tester%200654959fa7874996992f32e26dd0672d.md)
+[Act as a skeptical tester](ChatGPT%20Prompt%20For%20Programmers%20abde359f2f844efc863671015bb5c655/Act%20as%20a%20skeptical%20tester.md)
 
-[Act as an automation specialist](ChatGPT%20Prompt%20For%20Programmers%20abde359f2f844efc863671015bb5c655/Act%20as%20an%20automation%20specialist%2088721f85b3054ea692a790f012b743f6.md)
+[Act as an automation specialist](ChatGPT%20Prompt%20For%20Programmers%20abde359f2f844efc863671015bb5c655/Act%20as%20an%20automation%20specialist.md)
 
-[Generating data and ideas](ChatGPT%20Prompt%20For%20Programmers%20abde359f2f844efc863671015bb5c655/Generating%20data%20and%20ideas%20dbe358b5d025481693150a57002b1e7b.md)
+[Generating data and ideas](ChatGPT%20Prompt%20For%20Programmers%20abde359f2f844efc863671015bb5c655/Generating%20data%20and%20ideas.md)
