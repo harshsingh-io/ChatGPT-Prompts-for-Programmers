@@ -18,16 +18,16 @@ If you discover any new, interesting instructions, let me know!
 
 Enjoy faster coding!
 
-[Personal Coding Assistant](ChatGPT%20Prompt%20For%20Programmers%20abde359f2f844efc863671015bb5c655/Personal%20Coding%20Assistant.md)
+[Personal Coding Assistant](ChatGPT%20Prompt%20For%20Programmers/Personal%20Coding%20Assistant.md)
 
-[Act as a coding teacher](ChatGPT%20Prompt%20For%20Programmers%20abde359f2f844efc863671015bb5c655/Act%20as%20a%20coding%20teacher.md)
+[Act as a coding teacher](ChatGPT%20Prompt%20For%20Programmers/Act%20as%20a%20coding%20teacher.md)
 
-[Act as a manager](ChatGPT%20Prompt%20For%20Programmers%20abde359f2f844efc863671015bb5c655/Act%20as%20a%20manager.md)
+[Act as a manager](ChatGPT%20Prompt%20For%20Programmers/Act%20as%20a%20manager.md)
 
-[Act as a Tech Writer](ChatGPT%20Prompt%20For%20Programmers%20abde359f2f844efc863671015bb5c655/Act%20as%20a%20Tech%20Writer.md)
+[Act as a Tech Writer](ChatGPT%20Prompt%20For%20Programmers/Act%20as%20a%20Tech%20Writer.md)
 
-[Act as a skeptical tester](ChatGPT%20Prompt%20For%20Programmers%20abde359f2f844efc863671015bb5c655/Act%20as%20a%20skeptical%20tester.md)
+[Act as a skeptical tester](ChatGPT%20Prompt%20For%20Programmers/Act%20as%20a%20skeptical%20tester.md)
 
-[Act as an automation specialist](ChatGPT%20Prompt%20For%20Programmers%20abde359f2f844efc863671015bb5c655/Act%20as%20an%20automation%20specialist.md)
+[Act as an automation specialist](ChatGPT%20Prompt%20For%20Programmers/Act%20as%20an%20automation%20specialist.md)
 
-[Generating data and ideas](ChatGPT%20Prompt%20For%20Programmers%20abde359f2f844efc863671015bb5c655/Generating%20data%20and%20ideas.md)
+[Generating data and ideas](ChatGPT%20Prompt%20For%20Programmers/Generating%20data%20and%20ideas.md)
