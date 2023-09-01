@@ -1,4 +1,4 @@
-# ChatGPT Prompt For Programmers
+e# ChatGPT Prompt For Programmers
 
 Welcome to the eBook containing my personal collection of prompts for ChatGPT related to programming and automation of tasks related to programming. By collecting and categorizing these prompts, my goal was to create a database that would help with learning programming and scripting. These prompts are intended for people who already have some knowledge about programming but want to continue developing and expanding their skills.
 
